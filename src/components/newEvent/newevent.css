@@ -1,0 +1,98 @@
+.formNewEvent{
+    margin: auto;
+    width: 800px;
+    height: 230px;
+    padding-bottom: 50px;
+}
+
+.formTitle{
+    font-size: 1.3em;
+    display: block;
+    margin: 20px 15px;
+}
+
+.label{
+    font-size: 1.2em;
+    font-weight: 500;
+    margin:5px;
+}
+
+.bodyForm{
+    margin-bottom: 5px;
+}
+
+.divNew{
+    display: inline-table;
+    width: 380px;
+    height: 70px;
+    margin: 0 10px 5px 10px;
+}
+
+
+.newInput{
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 1.1em;
+    margin: 7px;
+    width: 350px;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.newInputError{
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 1.1em;
+    margin: 7px;
+    width: 350px;
+    height: 25px;
+    border-radius: 3px;
+    border: 2px solid lightpink;
+}
+
+.errorMsgForm{
+    color: red;
+    font-size: 0.8em;
+    margin-top: 0;
+    margin-left: 10px;
+}
+
+.btnNewEvent{
+    width: 140px;
+    height: 30px;
+    float: right;
+    margin-right: 28px;
+    border-radius: 3px;
+    background-color: #ff4c00;
+    border: 0;
+    color: white;
+    font-size: 0.7em;
+    font-weight: 800;
+}
+
+.btnNewEvent:hover{
+    width: 140px;
+    height: 30px;
+    float: right;
+    margin-right: 28px;
+    border-radius: 3px;
+    border: 1px solid black;
+    color: white;
+    font-size: 0.7em;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.btnNewEvent:active{
+    width: 140px;
+    height: 30px;
+    float: right;
+    margin-right: 28px;
+    border-radius: 3px;
+    background-color: lightcoral;
+    border: 0;
+    color: white;
+    font-size: 0.7em;
+    font-weight: 800;
+    cursor: pointer;
+}

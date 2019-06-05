@@ -1,0 +1,16 @@
+.searchData{
+    width: 100%;
+    height: 50px;
+}
+
+.selectData{
+    float: right;
+    margin: 10px 35px;
+    width: 250px;
+    height: 30px;
+    border-radius: 3px;
+    background-color: whitesmoke;
+}
+
+
+
